@@ -8,13 +8,13 @@ A collection of [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffk
 
 If you're using Google Chrome with Tampermonkey installed, just click the link below.
 
-[⏬Install](https://github.com/rinopo/github-user-js/raw/master/absolute-time.user.js)
+[⏬ Install](https://github.com/rinopo/github-user-js/raw/master/absolute-time.user.js)
 
 ### Description
 
 Show absolute time next to the relative one.
 
-![Sample](https://raw.github.com/rinopo/github-user-js/master/images/absolute-time-sample.png)
+![Sample](https://raw.github.com/rinopo/github-user-js/master/images/absolute-time.png)
 
 
 ## Clearer issue title change
@@ -23,7 +23,7 @@ Show absolute time next to the relative one.
 
 If you're using Google Chrome with Tampermonkey installed, just click the link below.
 
-[⏬Install](https://github.com/rinopo/github-user-js/raw/master/clearer-issue-title-change.user.js)
+[⏬ Install](https://github.com/rinopo/github-user-js/raw/master/clearer-issue-title-change.user.js)
 
 ### Description
 
